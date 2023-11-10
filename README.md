@@ -30,7 +30,7 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone url(https://github.com/MuhammadAnwarBadat/Flask-Blog-App.git)
+   git clone https://github.com/MuhammadAnwarBadat/Flask-Blog-App.git
    cd Flask-Blog-App
 
 2. Create a virtual environment:
