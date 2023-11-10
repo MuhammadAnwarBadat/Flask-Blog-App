@@ -71,6 +71,7 @@ Make sure you have the following installed on your machine:
   "email": "john.doe@example.com",
   "password": "your_password"
 }
+```
 - Click on the "Send" button.
 
 2. Log In (api/login):
@@ -82,6 +83,7 @@ Make sure you have the following installed on your machine:
   "email": "john.doe@example.com",
   "password": "your_password"
 }
+```
 - Click on the "Send" button.
 
 3. Create a New Blog Post (api/create_post):
@@ -94,6 +96,7 @@ Make sure you have the following installed on your machine:
   "title": "New Blog Post",
   "content": "This is the content of the blog post."
 }
+```
 - Click on the "Send" button.
 
 4. Create a Comment (api/create_comment):
@@ -106,6 +109,7 @@ Make sure you have the following installed on your machine:
   "post_id": 1,  // Use the post_id obtained from the create_post response
   "content": "This is a comment on the blog post."
 }
+```
 - Click on the "Send" button.
 
 5. View User's Blog Posts (dashboard):
