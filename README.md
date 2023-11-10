@@ -92,7 +92,7 @@ Make sure you have the following installed on your machine:
 - Set the request body to JSON with the post details:
 ```json
 {
-  "user_id": 1,  // Use the user_id obtained from the login response
+  "user_id": 1,  
   "title": "New Blog Post",
   "content": "This is the content of the blog post."
 }
@@ -105,8 +105,8 @@ Make sure you have the following installed on your machine:
 - Set the request body to JSON with the comment details:
 ```json
 {
-  "user_id": 1,  // Use the user_id obtained from the login response
-  "post_id": 1,  // Use the post_id obtained from the create_post response
+  "user_id": 1,  
+  "post_id": 1,  
   "content": "This is a comment on the blog post."
 }
 ```
