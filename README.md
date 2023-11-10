@@ -59,6 +59,9 @@ Make sure you have the following installed on your machine:
 
 2. The app will run at http://127.0.0.1:5000/
 
+### JWT (JSON Web Token) Authentication
+This application uses JWT for user authentication. After registering or logging in, you will receive a JWT token in the response. Include this token in the Authorization header for subsequent requests to authenticate yourself
+
 ### Testing with Postman
 
 1. Register a New User (api/register):
