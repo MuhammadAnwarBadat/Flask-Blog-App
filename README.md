@@ -112,11 +112,6 @@ Make sure you have the following installed on your machine:
 ```
 - Click on the "Send" button.
 
-5. View User's Blog Posts (dashboard):
-- Set the HTTP method to GET.
-- Enter the URL: http://127.0.0.1:5000/dashboard.
-- Click on the "Send" button.
-
 ### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
