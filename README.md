@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 
 1. Create the necessary database tables:
    ```bash
-   python app.py
+   python main.py
 
 2. The app will run at http://127.0.0.1:5000/
 
