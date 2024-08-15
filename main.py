@@ -212,5 +212,4 @@ def dashboard():
     return jsonify({'posts': posts_with_comments})
 
 if __name__ == '__main__':
-    create_user_table()
     app.run(debug=True)
